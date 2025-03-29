@@ -1,3 +1,4 @@
+![PIZZA SALES ANALYSIS](https://github.com/omkar3232/pizza_sales/blob/main/download.png)
 ## Upload these csv files via Table import data wizard in mysql.
 
 # if facing issue importing data for orders and order_details, create table schema below and import data.
